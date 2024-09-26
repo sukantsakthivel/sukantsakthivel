@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukant S</h1>
-<h3 align="center">A passionate Data Enginner from Tamilnadu</h3>
+<h3 align="center">Data Enginner @Saama</h3>
 
 - 🔭 I’m currently working at **Saama Technologies**
 
